@@ -1,3 +1,17 @@
 body{
-    color: violet;
+    background: #212227;
+    color: #489fb5;
+    border: 5px solid white;
+
 }
+
+#image{
+    width:30%;
+    max-width: 30%;
+    max-height: 30%;
+    margin-right: auto;
+    margin-left: auto;
+    display: block; 
+}
+
+
